@@ -1,0 +1,36 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8cc87ed2-89ea-4c96-9467-68a2d7be32d7" name="XAMPP" url="http://localhost">
+        <fileTransfer mountedRoot="C:\xampp\htdocs" accessType="MOUNT" />
+      </webServer>
+      <webServer id="6820b2f3-bf3b-404d-8d1a-a10ebab85e75" name="EasySpace" url="http://www.southwestfrancegite.co.uk">
+        <fileTransfer host="ftp.southwestfrancegite.co.uk" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d101a51f-8c0b-4644-aa16-51f364c5d6c1" name="LLJ Live" url="http://ftp.lljproperty.com">
+        <fileTransfer host="ftp.lljproperty.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a2ef6c1f-d2c5-494e-8848-43d0bb8e13ca" name="VVV local.wordpress.dev" url="http://local.wordpress.dev">
+        <fileTransfer host="local.wordpress.dev" port="22" privateKey="C:\Users\Ian\Projects\VVV\.vagrant\machines\default\virtualbox\private_key" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAABYAx0YrwLcI+hWSy6jGOfLVaOeT2djcq2Hi51z3sy6lQUa8IyVEA+44gI1Am1vteqWc587s2Cgk2JPMtHpA+2xHOM2LodA3K232TkTCJDTyfrNkvmOBtNcxgFBDYZ2pw70ut9qbeG7pY7ATal8QlCBnihq8nc6ztK0St6FQvOcNiH2PVRS9xURRo9yPn7iudsYCSdVSqoEIg5u2YlPMsIdCQ8YLCgMGZQT5ZBTfY8bCoCWiGb9R3UzoflK1yDCvWMWvajklrmFkXiK9nKgzS5U1Oa341wiaIcwREGrVysp5I18kt/vZyxUv4jDMOyf2YwrYz7gFle4oWrhMCWTWp/mLrCVTPKAGFa6+fwb9q5Jro4HzWw6PU55uAY6hSU1R/YtLaTriAgkSBPXHAg7wZsqLULkpNGrGuMD5JA38tn9fs6+e9WlEqtdkkjYouPAbycRIbbF6ps0diTjXv8Uh8fok9ZD+XBL72ZvTti9f6wXv28</data>
+  </component>
+</application>

@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="api" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebIde80/system/extLibs/http_www.google.com_recaptcha_api.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebIde80/system/extLibs/http_www.google.com_recaptcha_api.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
